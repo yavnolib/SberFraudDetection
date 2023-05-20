@@ -12,3 +12,8 @@ An algorithm for recognizing fraudulent calls, written as part of a joint hackat
 During the hackathon received:
 * accuracy on public tests (60): 85%
 * accuracy on private tests (30): 73%
+
+# Run
+~~~
+  python3 app.py
+~~~
